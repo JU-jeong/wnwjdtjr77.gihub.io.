@@ -3,3 +3,5 @@
 영어 코드 -> 컴파일러 -> 바이너리 코드
 OS마다 알아먹을 수도 있고 못 알아 먹을수도 있다
 JVM은 java이외에 다른부분에도사용가능
+
+java virtual machine -> java class library(jre) -> java development kit
