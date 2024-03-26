@@ -18,3 +18,5 @@ http 헤더 바디
 프로토콜 구분 도메인 구분 패스 구분 패스
 
 API - 규칙
+
+@RequestParam @RequestBody
