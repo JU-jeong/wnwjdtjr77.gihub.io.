@@ -13,3 +13,5 @@ java virtual machine -> java class library(jre) -> java development kit
 패키징 - 모든것을 하나로
 
 gradle - grovvy, xml 대신 씀
+
+http 헤더 바디
