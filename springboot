@@ -5,3 +5,11 @@ OS마다 알아먹을 수도 있고 못 알아 먹을수도 있다
 JVM은 java이외에 다른부분에도사용가능
 
 java virtual machine -> java class library(jre) -> java development kit
+
+빌드 - 코드를 하나로 응축
+
+테스트 과정
+
+패키징 - 모든것을 하나로
+
+gradle - grovvy, xml 대신 씀
