@@ -15,3 +15,4 @@ java virtual machine -> java class library(jre) -> java development kit
 gradle - grovvy, xml 대신 씀
 
 http 헤더 바디
+프로토콜 구분 도메인 구분 패스 구분 패스
