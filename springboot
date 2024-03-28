@@ -29,6 +29,24 @@ int는 null을 표현할 수 없고 Integer는 null을 표현할 수 있다
 
 RDBMS DBMS
 
-jpa orm object relational mapping
+jpa orm object relational mapping 객체와 테이블을 짝짓는다
 
 jdbc 런타임 jpa 컴파일 과정
+
+jpa java persistence api
+
+짝짓기의 규칙을 구현화하는것이 hibernate
+
+@Entity 테이블과 객체를 같은것으로 인식
+
+@Id primary key
+
+public enum GenerationType
+
+TABLE
+
+SEQUENCE
+
+IDENTITY
+
+AUTO
