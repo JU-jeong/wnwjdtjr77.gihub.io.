@@ -21,3 +21,6 @@ API - 규칙
 
 @RequestParam @RequestBody
 int는 null을 표현할 수 없고 Integer는 null을 표현할 수 있다
+
+@getMapping - @RequestParam
+@PostMapping - @RequestBody
