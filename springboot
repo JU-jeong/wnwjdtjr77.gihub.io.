@@ -41,6 +41,8 @@ jpa java persistence api
 
 @Id primary key
 
+@GeneratedValue primary key의 자동생성
+
 public enum GenerationType
 
 TABLE
@@ -108,3 +110,22 @@ public class Test01 {
 }
 
 jdbcTemplate, rowMapper, java Lambda
+
+@Configuration 클래스
+@Bean 메서드
+
+@Service 직접 제작
+@Repository 직접 제작
+
+JDBC template
+
+@Component 숨어있다
+
+@AutoWired 매게변수에 bean을 연결
+생성자
+Setter
+
+@Qulifier 가져오다
+@Primary 2순위
+
+@Entity 쿼리안쓴다
