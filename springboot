@@ -129,3 +129,9 @@ Setter
 @Primary 2순위
 
 @Entity 쿼리안쓴다
+
+ORM SQL
+
+@ManyToOne <-> @OneToMany(mapped by) <-> @OneToOne
+
+연관관계
