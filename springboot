@@ -62,53 +62,6 @@ jdbc java database connector 연결
 
 driver-class-name db접근시 사용할 프로그램
 
-// 생성자를 사용하지 않은 경우
-class Student {
-	String name; // 학생 이름
-	int age; // 학생 나이
-	int number; // 학생 학번
-}
-
-public class StudentMain {
-
-	public static void main(String[] args) {
-
-		Student st = new Student();
-
-		st.name = "홍길동";
-		st.age = 20;
-		st.number = 00000000;
-	}
-
-}
-
-class Student {
-	String name; // 학생 이름
-	int age; // 학생 나이
-	int number; // 학생 학번
-
-	Student() {
-	}
-
-	Student(String name, int age, int number) {
-		this.name = name;
-		this.age = age;
-		this.number = number;
-	}
-
-}
-
-public class Test01 {
-
-	public static void main(String[] args) {
-		Student st1 = new Student(); // 생성자 호출 부분에 인자가 없고 클래스에 인자가 있는
-										// 생성자가 하나 이상 존재하기 때문에 빈 생성자를
-										// 만들어 줘야 합니다.
-		Student st2 = new Student("홍길동", 20, 111111);
-	}
-
-}
-
 jdbcTemplate, rowMapper, java Lambda
 
 @Configuration 클래스
@@ -135,3 +88,9 @@ ORM SQL
 @ManyToOne <-> @OneToMany(mapped by) <-> @OneToOne
 
 연관관계
+
+@JoinColumn
+
+cascade <-> orphanRemoval 관계를 제거한다
+
+
