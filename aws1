@@ -23,3 +23,5 @@ sudo 관리자 권한
 HTTPS - SSL TLS 가 바꿔줌
 
 ELB - 또 하나의 컴퓨터 // 사용자 - ELB - EC2 중간다리
+
+sudo systemctl status mysqld - 보이지 않는 프로그램을 관리
