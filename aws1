@@ -32,5 +32,8 @@ git clone https://github.com/studying-developer/library-app.git 코드를 가져
 
 swap 메모리
 
-nohup background ec2 종료해도 서버 돌아감
+nohup 명령어 & background ec2 종료해도 서버 돌아감
 
+ps aux 현재 실행중인 목록 grep java
+
+가비아 vs 53
