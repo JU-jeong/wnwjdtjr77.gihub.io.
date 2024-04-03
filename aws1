@@ -25,3 +25,5 @@ HTTPS - SSL TLS 가 바꿔줌
 ELB - 또 하나의 컴퓨터 // 사용자 - ELB - EC2 중간다리
 
 sudo systemctl status mysqld - 보이지 않는 프로그램을 관리
+
+radlew은 로컬 시스템에 Gradle이 없을 때 프로젝트를 빌드하는 데 사용되며, gradle은 로컬 시스템에 이미 설치된 Gradle을 실행할 때 사용됩니다.
