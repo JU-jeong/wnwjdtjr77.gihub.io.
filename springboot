@@ -72,33 +72,4 @@ jdbcTemplate, rowMapper, java Lambda
 
 JDBC template
 
-@Component 숨어있다
-
-@AutoWired 매게변수에 bean을 연결
-생성자
-Setter
-
-@Qulifier 가져오다
-@Primary 2순위
-
-@Entity 쿼리안쓴다
-
-ORM SQL
-
-@ManyToOne <-> @OneToMany(mapped by) <-> @OneToOne
-
-연관관계
-
-@JoinColumn
-
-cascade <-> orphanRemoval 관계를 제거한다
-
-h2 ddl-auto create의 고정 메모리에 테이블을 저장하면 휘발
-
-git config --global 계정설
-
-@RequestParam form태그
-
-@RequestBody 그 외
-
-@RestController 
+@Com기
