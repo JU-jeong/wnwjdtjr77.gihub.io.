@@ -74,6 +74,8 @@ JDBC template
 
 @Com기
 
+int null 표현 불가 Integer은 표현가능
+
 Service
 Repository
 xx
