@@ -34,6 +34,7 @@ jpa orm object relational mapping 객체와 테이블을 짝짓는다
 jdbc 런타임 jpa 컴파일 과정
 
 jpa java persistence api
+query문을 줘패서 jpa
 
 짝짓기의 규칙을 구현화하는것이 hibernate
 
