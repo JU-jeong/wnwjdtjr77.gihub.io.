@@ -49,6 +49,8 @@ ec2 - api - s3 - ec2 - rds
 
 HTTPS - ELB
 
+EC2 - ELB - DOMAIN
+
 로드밸런서 // 엔드포인트
 
 HTTP - SSL/TLS - HTTPS
@@ -56,3 +58,5 @@ HTTP - SSL/TLS - HTTPS
 ip address vs get HTTPS requirement domain
 
 // 솔루션을 불러와라
+
+ELB health check
