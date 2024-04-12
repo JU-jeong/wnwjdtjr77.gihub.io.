@@ -47,7 +47,7 @@ ec2 - api - s3 - ec2 - rds
 
 빠른 레코드 생성
 
-HTTPS - ELB
+HTTPS - ELB, 엔지닉스, 설트봇
 
 EC2 - ELB - DOMAIN
 
