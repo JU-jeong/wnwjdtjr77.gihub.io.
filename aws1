@@ -40,9 +40,19 @@ ps aux 현재 실행중인 목록 grep java
 
 도메인 숫자말고문자 Route53, 가비아 후이즈 등등
 
-
-
 RDS vs EC2 백엔드 SQL 한번에
 
 S3 파일 업로드, url을 저장
 ec2 - api - s3 - ec2 - rds
+
+빠른 레코드 생성
+
+HTTPS - ELB
+
+로드밸런서 // 엔드포인트
+
+HTTP - SSL/TLS - HTTPS
+
+ip address vs get HTTPS requirement domain
+
+// 솔루션을 불러와라
