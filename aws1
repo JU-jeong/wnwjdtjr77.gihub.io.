@@ -37,3 +37,5 @@ nohup 명령어 & background ec2 종료해도 서버 돌아감
 ps aux 현재 실행중인 목록 grep java
 
 가비아 vs 53
+
+RDS vs EC2 백엔드 SQL 한번에
