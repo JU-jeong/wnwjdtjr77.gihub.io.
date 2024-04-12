@@ -10,3 +10,4 @@ Integer.toHexString(System.identityHashCode(grade));
 java.lang
 
 객체에 맞는 다운캐스팅
+자바에서는 변수 말고 뭔가 바뀌는 것이 아니다
