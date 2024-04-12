@@ -43,3 +43,6 @@ ps aux 현재 실행중인 목록 grep java
 
 
 RDS vs EC2 백엔드 SQL 한번에
+
+S3 파일 업로드, url을 저장
+ec2 - api - s3 - ec2 - rds
