@@ -8,3 +8,5 @@
 Integer.toHexString(System.identityHashCode(grade));
 
 java.lang
+
+객체에 맞는 다운캐스팅
