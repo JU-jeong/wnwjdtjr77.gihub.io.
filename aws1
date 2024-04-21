@@ -66,3 +66,5 @@ Certificate Manager
 온프레미스 오프프레미스 
 
 cloudtrail cloudfront cloudwatch
+
+S3제일쌈 / sqs 느슨한 결합
