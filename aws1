@@ -68,3 +68,27 @@ Certificate Manager
 cloudtrail cloudfront cloudwatch
 
 S3제일쌈 / sqs 느슨한 결합
+
+aws 기업 지원 - 전체세트
+aws 기본 지원
+aws 비즈니스 지원 - 전체세트
+aws 개발자 지원
+aws 컨시어지 지원
+
+온프레미스
+
+프로비저닝
+프로오메이션
+
+마이그레이션
+
+cloudfront
+cloudtrail 기록 
+
+api gateway
+elastic loadbalancer
+
+aws lambda - serverless
+aws elastic beanstalk - server
+
+waf - cloudfront apigateway elasticloadbalancer
