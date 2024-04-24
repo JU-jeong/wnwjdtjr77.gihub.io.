@@ -92,3 +92,33 @@ aws lambda - serverless
 aws elastic beanstalk - server
 
 waf - cloudfront apigateway elasticloadbalancer
+
+aws 기업 지원 - 전체세트
+aws 기본 지원
+aws 비즈니스 지원 - 전체세트
+aws 개발자 지원
+aws 컨시어지 지원
+
+온프레미스
+
+프로비저닝
+프로오메이션
+
+마이그레이션
+
+cloudfront
+cloudtrail 기록 
+
+api gateway
+elastic loadbalancer
+
+aws lambda - serverless
+aws elastic beanstalk - server
+
+waf - cloudfront apigateway elasticloadbalancer
+
+관계형
+RDS
+
+SQL
+Athena, DynamoDB
