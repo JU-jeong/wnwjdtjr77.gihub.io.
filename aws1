@@ -124,3 +124,5 @@ SQL
 Athena, DynamoDB
 
 온프레미스란 기업의 서버를 클라우드 같은 원격 환경에서 운영하는 방식이 아닌, 자체적으로 보유한 전산실 서버에 직접 설치해 운영하는 방식을 의미합니다. 
+
+transit gateway - vpc kara no tsuusin
